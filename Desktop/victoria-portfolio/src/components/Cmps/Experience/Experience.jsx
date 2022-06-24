@@ -27,7 +27,7 @@ const Experience = () => {
         <img src={FoodPi} alt="" className='ImgExperiencia'/>
         <div className='portfolio__item-cta'>
         <a href="https://github.com/Vikycasal/PI-Food" className='btn' target="_blank">Codigo</a>
-     </div>
+      </div>
         </article>
         <article className='portfolio__item'>
         <div className='portfolio__item-image'></div>
